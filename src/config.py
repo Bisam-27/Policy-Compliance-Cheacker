@@ -2,7 +2,7 @@ import os
 import streamlit as st
 
 # Configuration for Policy Compliance Checker
-GEMINI_API_KEY = "AIzaSyAZDBX3kN86jDPUzRlHmGEkotE8_DT11Ok"
+GEMINI_API_KEY = "Your Api key"
 
 # Try to get from environment or Streamlit secrets
 if not GEMINI_API_KEY:
