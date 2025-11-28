@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files
+data/vector_store/
+data/*.json
+data/pdfs/*.txt
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
